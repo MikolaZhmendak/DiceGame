@@ -1,0 +1,23 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 40px;
+    text-align: center;
+}
+.content{
+	text-align: center
+}
+.button {
+	background-color: #ffffff;
+	color: black;
+	padding: 40px;
+	margin: 120px 120px;
+	cursor: pointer;
+	border: 2px solid #555555;
+
+}
+.button4 {border-radius: 50px;}
+.button6 {border-radius: 50px;}
+.button8 {border-radius: 50px;}
+.button10{border-radius: 50px;}
+.button12{border-radius: 50px;}
+.button18{border-radius: 50px;}
